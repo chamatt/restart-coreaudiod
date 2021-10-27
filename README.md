@@ -8,7 +8,16 @@ A simple packaged mac app with the single purpose of running `sudo pkill coreaud
 3. Move the 'RestartCoreAudioD' app to your applications folder.
 4. (Optional) Drag the app from the application folder to your dock for easy access.
 
+
+
 Next time your audio fails, just run the app, scan your finger, and enjoy that sweet audio back again!
+
+# Troubleshoot
+
+The first time you open the app, it won't allow you to run due to it being from an unidentified developer. To solve that, go to your `Applications` folder, `right click` the app, then click `open`.
+
+If it still doesn't allow you to run, go to your `System Preferences` -> `Security & Privacy` -> check if it's blocked there and click `Open Anyway`.
+
 
 # Credits:
 
