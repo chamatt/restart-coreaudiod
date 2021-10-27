@@ -1,6 +1,6 @@
 ![icon](https://cdn.icon-icons.com/icons2/96/PNG/128/audio_card_16853.png)
 
-# restart-coreaudiod
+# RestartCoreAudioD
 A simple packaged mac app with the single purpose of running `sudo pkill coreaudiod` with TouchID support. For my fellow compadres who also spilled wine on their brand new macbook while playing Among Us. 
 
 # Instructions
