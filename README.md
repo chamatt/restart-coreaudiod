@@ -6,7 +6,7 @@ A simple packaged mac app with the single purpose of running `sudo pkill coreaud
 # Instructions
 
 1. Download/Clone/Extract the repository
-2. Run `chmod 755 ./sudo-via-touch-id.sh` inside the downloaded folder. This will allow you to active sudo via TouchID.
+2. Run `chmod 755 ./sudo-via-touch-id.sh` inside the downloaded folder to make it executable then run `./sudo-via-touch-id.sh`. This will allow you to active sudo via TouchID.
 3. Move the 'RestartCoreAudioD' app to your applications folder.
 4. (Optional) Drag the app from the application folder to your dock for easy access.
 
